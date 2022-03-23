@@ -1,0 +1,10 @@
+D:\3 курс\ОС\Лаба3\ThreadLab\bin\Release\ThreadLab.exe.config
+D:\3 курс\ОС\Лаба3\ThreadLab\bin\Release\ThreadLab.exe
+D:\3 курс\ОС\Лаба3\ThreadLab\bin\Release\ThreadLab.pdb
+D:\3 курс\ОС\Лаба3\ThreadLab\obj\Release\ThreadLab.csprojAssemblyReference.cache
+D:\3 курс\ОС\Лаба3\ThreadLab\obj\Release\ThreadLab.Form1.resources
+D:\3 курс\ОС\Лаба3\ThreadLab\obj\Release\ThreadLab.Properties.Resources.resources
+D:\3 курс\ОС\Лаба3\ThreadLab\obj\Release\ThreadLab.csproj.GenerateResource.cache
+D:\3 курс\ОС\Лаба3\ThreadLab\obj\Release\ThreadLab.csproj.CoreCompileInputs.cache
+D:\3 курс\ОС\Лаба3\ThreadLab\obj\Release\ThreadLab.exe
+D:\3 курс\ОС\Лаба3\ThreadLab\obj\Release\ThreadLab.pdb
